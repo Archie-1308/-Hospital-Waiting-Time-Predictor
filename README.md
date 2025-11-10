@@ -68,3 +68,5 @@ The scatter plot of Actual vs Predicted patients shows the model predicts patien
 
 ## 👩‍💻 Author
 **Archana Pandey** – AI & Data Science Engineering Student
+## Contact 
+LinkedIn Profile https://www.linkedin.com/in/archana-pand/
